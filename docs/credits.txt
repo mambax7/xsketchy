@@ -1,0 +1,12 @@
+============== Credits ==============
+xBootstrap theme for XOOPS was originally developed by Angelo Rocha (www.angelorocha.com.br)
+It is based on Bootstrap CSS framework (http://getbootstrap.com)
+The hand-drawn look for mockups and mirth is based on Bootswatch "Sketchy" theme: https://bootswatch.com/sketchy/
+
+============== Contributors ==============
+- Bleekk: https://xoops.org/modules/profile/userinfo.php?uid=5513
+- Heyula: https://xoops.org/modules/profile/userinfo.php?uid=69371
+- Mamba:  https://xoops.org/modules/profile/userinfo.php?uid=19563
+
+XOOPS UX/UI Team
+www.xoops.org
